@@ -1,0 +1,22 @@
+GIT BASH COMANDOS
+
+ls: es el comando para enlistar el directorio donde estas ubicado
+
+pwd: sirve para saber en que directorio estas ubicado
+
+cd (change directory): sirve para moverse de un directorio a otro
+
+con tabulado autocompleta solito wiiiiii
+
+clear: limpia la consola o terminar como la quiera llamar
+
+mkdir: crea directorios (carpetas)
+
+El / (slash/ se usa para dividir los folders o cambiar de directorio
+ejemplo: para crear una carpeta dentro de otra carpeta
+
+touch: es para crear archivos dentro de las carpetas o directorios
+
+
+
+

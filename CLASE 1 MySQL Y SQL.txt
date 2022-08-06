@@ -1,0 +1,35 @@
+¿QUE ES SQL?
+SQL es un lenguaje de programcion
+
+¿QUE ES UNA BASE DE DATOS?
+Es  un sistema que nos permite almacenar datos (como una canasta que nos permite almacenar frutas).
+
+tenemos diferentes tipos de datos 
+podemos almacenar cadenas de texto, numeros cortos, numeros largos, imagenes, etc.
+
+un conjunto de datos es lo que conocemos como informacion.
+tienes diferentes elementos, como lo son: 
+- tablas
+- relaciones
+- metodos
+
+
+¿QUE ES UN MOTOR DE BASE DE DATOS?
+Un motor de bases de datos es un sistema de manejo de bases de datos relacionales (RDBMS)
+existen diferentes tipos de motores de bases de datos que son:
+
+- MySQL (MariaDB le colocaron ahora)
+- Oracle 
+- SQL Server
+- PostgreSQL
+
+Una tabla puede tener una llave principal (primary key) y puede tener muchas llaves foraneas (foreign key)
+
+SQL sirve para insertar, buscar, actualizar y eliminar registros de bases de datos relacionadas.(CRUD(CREATE, READ, UPDATE, DELETE)).
+
+                    TAREA 
+- INVESTIGAR QUE OTROS MOTORES DE BASES DE DATOS EXISTEN Y EXISTIERON
+
+- INVESTIGAR QUE OTROS TIPOS DE BASES DE DATOS EXISTEN APARTE DE LAS RELACIONALES Y CUALES SON
+
+- 
